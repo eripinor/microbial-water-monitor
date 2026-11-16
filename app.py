@@ -17,8 +17,8 @@ import plotly.express as px  # Gráficos y mapas interactivos
 
 
 st.set_page_config(
-    page_title="Microbial Water Monitor",  # Nombre de la pestaña
-    page_icon="💧💩",  # Icono de la aplicación
+    page_title="💩Microbial Water Monitor",  # Nombre de la pestaña
+    page_icon="💧",  # Icono de la aplicación
     layout="wide"  # Utiliza todo el ancho de la página
 )
 
