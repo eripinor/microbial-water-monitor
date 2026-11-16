@@ -180,7 +180,7 @@ Junto con el código y la aplicación, se incluye una **presentación explicativ
 
 La presentación complementa este README y permite conocer el desarrollo del proyecto de una forma más visual y resumida.
 
-**Presentación:** [Ver presentación del proyecto](PEGAR_AQUÍ_EL_ENLACE_DE_LA_PRESENTACIÓN)
+**Presentación:** [Ver presentación del proyecto](presentación/presen.pdf)
 
 ## 9. Limitaciones
 
