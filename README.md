@@ -162,6 +162,18 @@ La aplicación dispone de filtros generales para seleccionar:
 
 La aplicación incluye un apartado específico con el enlace a [Open Water Quality](https://openwaterquality.org/), la información básica de la descarga y una nota sobre sus limitaciones.
 
+### Capturas de la app
+
+![La app](capturas/app.png)
+
+![Fuente](capturas/fuente.png)
+
+![Explorador de datos](capturas/explorador.png)
+
+![Distribución geográfica](capturas/geo.png)
+
+![Consulta](capturas/consulta.png)
+
 ## 8. Presentación del proyecto
 
 Junto con el código y la aplicación, se incluye una **presentación explicativa** en la que se exponen el proyecto, sus objetivos, las fases de trabajo, el análisis realizado, los principales resultados y las limitaciones encontradas.
